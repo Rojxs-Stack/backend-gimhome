@@ -17,4 +17,4 @@ conn = mysql.connector.connect(
 
 cursor = conn.cursor()
 
-print("MYSQL CONECTADO")
+print("MYSQL CONECTADO CORRECTAMENTE")
